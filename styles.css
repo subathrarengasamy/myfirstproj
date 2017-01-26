@@ -1,0 +1,173 @@
+
+.p1{
+        background-image: url("images/img1.jpg");
+         
+      }
+.p2{
+        background-image: url("images/img2.jpg");
+        
+      }
+.p3{
+        background-image: url("images/.jpg");
+  
+        
+      }
+
+header{
+        background-color:light blue;color:white;text-align:center;font-size:1em;font-family:impact;
+      }
+
+footer{
+        color:black;text-align:center;font-size:100%;font-family:Couriernew;
+      }
+nav{
+    color:blue;
+    font-size:1em;
+    }
+p{
+    border: 3px solid powderblue;
+    text -align=center;
+    font-size:1em;
+    padding:10px;
+    margin:10px;
+}
+h1{color:blue;}
+
+h2{
+   color:blue;
+    
+   font-family:verdana;
+     
+   font-size:300%;
+  }
+
+ul#menu{
+
+
+         padding:0;
+font-size:200%;
+   
+     }
+
+ul#menu li
+{
+       
+       
+            display:inline;
+   
+            margin:10px;
+      
+            padding:10px;
+
+ 
+         }
+
+
+a:link {
+ 
+         color: green;
+
+         background-color:transparent;
+   
+         text-decoration: none;
+
+      }
+
+a:visited {
+ 
+             color: purple;
+         
+    background-color: transparent;
+  
+             text-decoration: none;
+
+         }
+
+
+ul#menu li a:hover {
+ 
+                 
+    background-color: orange;
+    text-decoration: underline;
+
+                  }
+
+a:active {
+  
+               color: yellow;
+ 
+               background-color: transparent;
+
+               text-decoration: underline;
+         
+}
+
+form
+{
+  border:5px solid blue;
+  width: 50%;
+
+}
+
+input,textarea
+{
+  border-color:#4833EA;
+  color: #0E0E0F;
+}
+
+
+
+
+
+ h2   {color:blue;
+    
+       font-family:verdana;
+     
+       font-size:300%;}
+
+ul#menu {
+
+         padding:0;
+        font-size:200%;     
+       }
+
+ul#menu li
+   {
+       
+       
+               display:inline;
+   
+               margin:10px;
+      
+               padding:10px;
+
+  }
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+   
+        text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+ul#menu li a:hover {
+    
+    background-color: orange;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
